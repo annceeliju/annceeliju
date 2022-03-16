@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @annceeliju
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning data science
+- 📫 Reach me at annceeliju@gmail.com
