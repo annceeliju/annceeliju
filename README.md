@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @annceeliju
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data science
+- I completed my B.Voc Data Sciences from St. Thomas College, Thrissur
+- 🌱 I’m currently doing my MCA at Rajagiri College Of Social Sciences, Kalamassery
 - 📫 Reach me at annceeliju@gmail.com
